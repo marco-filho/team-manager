@@ -1,9 +1,9 @@
 # Gerenciador de Times  
----
+
 Web API de um gerenciador de times e jogadores feita em ASP.NET 5.  
 
 # Rotas  
----
+
 Abaixo estão exemplos de requisições e respostas.  
 
 ## Jogadores  
